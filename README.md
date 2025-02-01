@@ -11,7 +11,7 @@ This project is just so people can play video with Python, and **will not** be p
 ## After cloning the repo
 Simply type 
 
-`pip install reqiurements.txt`
+`pip install -r reqiurements.txt`
 
 inside the source code directory, then type
 
