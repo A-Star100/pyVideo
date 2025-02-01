@@ -1,7 +1,7 @@
 # pyVideo
 A simple Python video player app made with the PyQT libraries for UI and multimedia.
 
-This project is just so people can play video with Python, and **will not** be properly maintained, as it is a side project. If you're looking for a more advanced, cross-platform video player (that doesn't use Python), check out [SimpliPlay](https://simpliplay.netlify.app), also created by me, which supports HLS and MPEG-DASH on *every* platform except iOS.
+This project is just so people can play video with Python, and **will not** be properly maintained, as it is a side project. If you're looking for a more advanced, cross-platform video player (that doesn't use Python), check out [SimpliPlay](https://simpliplay.netlify.app), which supports a variety of media formats.
 
 ## Requirements
 - Python 3.6 or later
@@ -15,6 +15,6 @@ Simply type
 
 inside the source code directory, then type
 
-`python3 pyPlay.py`
+`python3 main.py`
 
 and you should see a window with options to play, pause, stop, go fullscreen, scrub through progress (progress slider is buggy, be careful!), a URL input dialog and a choose file button. Use these however you would like :D
