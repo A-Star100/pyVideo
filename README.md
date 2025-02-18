@@ -11,10 +11,14 @@ This project is just so people can play video with Python, and **will not** be p
 ## After cloning the repo
 Simply type 
 
-`pip install -r reqiurements.txt`
+```shell
+pip install -r reqiurements.txt
+```
 
 inside the source code directory, then type
 
-`python3 main.py`
+```shell
+python3 main.py
+```
 
 and you should see a window with options to play, pause, stop, go fullscreen, scrub through progress (progress slider is buggy, be careful!), a URL input dialog and a choose file button. Use these however you would like :D
