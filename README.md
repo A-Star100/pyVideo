@@ -12,7 +12,7 @@ This project is just so people can play video with Python, and **will not** be p
 Simply type 
 
 ```shell
-pip install -r reqiurements.txt
+pip install -r requirements.txt   
 ```
 
 inside the source code directory, then type
