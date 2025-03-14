@@ -1,7 +1,7 @@
-# pyVideo
-A simple Python video player app made with the PyQT libraries for UI and multimedia.
+# pyPlay
+A simple Python media player app made with the PyQT libraries for UI and multimedia.
 
-This project is just so people can play video with Python, and **will not** be properly maintained, as it is a side project. If you're looking for a more advanced, cross-platform video player (that doesn't use Python), check out [SimpliPlay](https://simpliplay.netlify.app), which supports a variety of media formats.
+This project is just so people can play media with Python, and **will not** be properly maintained, as it is a side project. If you're looking for a more advanced, cross-platform video player (that doesn't use Python), check out [SimpliPlay](https://simpliplay.netlify.app), which supports a variety of media formats.
 
 ## Requirements
 - Python 3.6 or later
